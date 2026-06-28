@@ -83,3 +83,5 @@ Bei aktiviertem API-Modus:
 
 Diese Software wird unter der **MIT License mit dem Commons Clause Zusatz** bereitgestellt.  
 Das bedeutet, dass Änderungen und Weiterverteilungen (auch modifizierte Versionen) erlaubt sind – eine kommerzielle Nutzung bzw. der Verkauf der Software oder abgeleiteter Werke ist jedoch ohne die ausdrückliche Zustimmung des Autors untersagt.
+
+<a href="https://www.buymeacoffee.com/ansgarscheffold" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
